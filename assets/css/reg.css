@@ -215,11 +215,11 @@ nav ul li a:hover{
 
 .services:after {
   content: '';
-<<<<<<< HEAD
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/services-left-dec.png);
-=======
+
+  
+
   background-image: url(../img/services-left-dec.png);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -258,11 +258,11 @@ nav ul li a:hover{
   border-radius: 10px;
   border-top-right-radius: 50px;
   transition: all .3s;
-<<<<<<< HEAD
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/service-bg.jpg);
-=======
+
+ 
+
   background-image: url(../img/service-bg.jpg);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
   background-position: right top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -301,32 +301,32 @@ nav ul li a:hover{
 }
 
 .first-service .icon {
-<<<<<<< HEAD
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/2.png);
-=======
+
+  
+
   background-image: url(../img/2.png);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
 }
 
 
 
 .second-service .icon {
-<<<<<<< HEAD
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/1.png);
-=======
+
+
+
   background-image: url(../img/1.png);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
 }
 
 
 
 
 .third-service .icon {
-<<<<<<< HEAD
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/3.png);
-=======
+
+  
+
   background-image: url(../img/3.png);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
 }
 
 
@@ -355,11 +355,11 @@ nav ul li a:hover{
 
 
 .call-to-action {
-<<<<<<< HEAD
-  background: linear-gradient(rgba(110, 153, 219, 0.6), rgba(3, 38, 91, 0.8)), url("https://www1.reva.edu.in/smparce-2024/assets/img/reva.jpg") fixed center center;
-=======
+
+ 
+
   background: linear-gradient(rgba(110, 153, 219, 0.6), rgba(3, 38, 91, 0.8)), url("../img/reva.jpg") fixed center center;
->>>>>>> e880e52 (Update: modified files with recent changes)
+
   background-size: cover;
   padding: 150px 0;
   margin-top: 30px;
@@ -373,11 +373,9 @@ nav ul li a:hover{
 @media (max-width: 430px) {
   .services:after {
     content: '';
-<<<<<<< HEAD
-    background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/services-left-dec.png);
-=======
+
     background-image: url(../img/services-left-dec.png);
->>>>>>> e880e52 (Update: modified files with recent changes)
+
     background-repeat: no-repeat;
     position: absolute;
     left: 0;
