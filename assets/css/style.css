@@ -703,7 +703,11 @@ h6 {
 }
 
 .about-img {
+<<<<<<< HEAD
   background-image: url('https://www1.reva.edu.in/smparce-2024/assets/img/banner.jpg');
+=======
+  background-image: url('../img/banner.jpg');
+>>>>>>> e880e52 (Update: modified files with recent changes)
   background-repeat: no-repeat;
   min-height: 900px;
   background-size: 100% 100%;
@@ -761,7 +765,11 @@ h6 {
 }
 
 .subscribe .inner-content {
+<<<<<<< HEAD
   background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/subscribe-bg.png);
+=======
+  background-image: url('../img/subscribe-bg.png');
+>>>>>>> e880e52 (Update: modified files with recent changes)
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -773,7 +781,11 @@ h6 {
 
 .subscribe .inner-content:after {
   content: '';
+<<<<<<< HEAD
   background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/subscribe-dec.png);
+=======
+  background-image: url('../img/subscribe-dec.png');
+>>>>>>> e880e52 (Update: modified files with recent changes)
   position: absolute;
   width: 200px;
   height: 144px;
@@ -833,7 +845,11 @@ h6 {
 @media (max-width: 426px) {
   .subscribe .inner-content:after {
     content: '';
+<<<<<<< HEAD
     background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/subscribe-dec.png);
+=======
+    background-image: url('../img/subscribe-dec.png');
+>>>>>>> e880e52 (Update: modified files with recent changes)
     position: absolute;
    z-index: -1;
     background-repeat: no-repeat;
