@@ -415,7 +415,7 @@ h6 {
 
 
 .free-quote {
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/quote-bg.jpg);
+  background-image: url(../img/quote-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -528,7 +528,7 @@ h6 {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/regular-table-top.png);
+  background-image: url(../img/regular-table-top.png);
   z-index: 0;
   content: '';
   width: 274px;
@@ -539,7 +539,7 @@ h6 {
   position: absolute;
   bottom: 0;
   right: 0;
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/regular-table-bottom.png);
+  background-image: url(../img/regular-table-bottom.png);
   z-index: 0;
   content: '';
   width: 370px;
@@ -603,7 +603,7 @@ h6 {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/pro-table-top.png);
+  background-image: url(../img/pro-table-top.png);
   z-index: 0;
   content: '';
   width: 281px;
@@ -616,7 +616,7 @@ h6 {
   right: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(https://www1.reva.edu.in/smparce-2024/assets/img/pro-table-bottom.png);
+  background-image: url(../img/pro-table-bottom.png);
   z-index: 0;
   content: '';
   width: 100%;
